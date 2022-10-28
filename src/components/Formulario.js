@@ -55,8 +55,8 @@ const Formulario = ({ user }) => {
   };
 
   return (
-    <div>
-      <form onSubmit={handleSubmit}>
+    <div className="form">
+      <form onSubmit={handleSubmit} className="form">
         <h3 className="title">Dados Pessoais</h3>
         <label>
           <span className="texto">Nome</span>
