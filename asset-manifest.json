@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/desafio-allyhub/static/css/main.d7961076.css",
-    "main.js": "/desafio-allyhub/static/js/main.fdb887b2.js",
+    "main.css": "/desafio-allyhub/static/css/main.bc1fa1b2.css",
+    "main.js": "/desafio-allyhub/static/js/main.f2d96d78.js",
     "static/js/787.91566731.chunk.js": "/desafio-allyhub/static/js/787.91566731.chunk.js",
     "index.html": "/desafio-allyhub/index.html",
-    "main.d7961076.css.map": "/desafio-allyhub/static/css/main.d7961076.css.map",
-    "main.fdb887b2.js.map": "/desafio-allyhub/static/js/main.fdb887b2.js.map",
+    "main.bc1fa1b2.css.map": "/desafio-allyhub/static/css/main.bc1fa1b2.css.map",
+    "main.f2d96d78.js.map": "/desafio-allyhub/static/js/main.f2d96d78.js.map",
     "787.91566731.chunk.js.map": "/desafio-allyhub/static/js/787.91566731.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7961076.css",
-    "static/js/main.fdb887b2.js"
+    "static/css/main.bc1fa1b2.css",
+    "static/js/main.f2d96d78.js"
   ]
 }
