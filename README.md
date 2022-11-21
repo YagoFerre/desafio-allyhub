@@ -12,6 +12,6 @@
 [link do React Select](https://react-select.com/home#getting-started).
 
 ## Sendo assim
-![spa2](https://user-images.githubusercontent.com/103700322/198485143-97d67a83-3c15-4ba4-92ca-a0433db8b41f.png)
+![allyhub2](https://user-images.githubusercontent.com/103700322/203049532-3f0626a3-c280-47e1-a394-01a06487b269.png)
 
 Por último fiz um deploy com GitHub.
