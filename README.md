@@ -1,7 +1,9 @@
 # Destinos de Interesse
 ## Ir direto para o site: [Destinos e Viagens](https://yagoferre.github.io/desafio-allyhub/)
 
-Neste desafio fiz uma SPA no qual o usuário poderá fazer seu cadastro e escolher mais de um país ou cidade no qual desejaria visitar.
+## [![Linguagens Utilizadas](https://img.shields.io/badge/Linguagens-Utilizadas%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=F745B5)](https://github.com/iuricode/readme-template/tree/main/profile) - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+### Neste desafio fiz uma SPA no qual o usuário poderá fazer seu cadastro e escolher mais de um país ou cidade no qual desejaria visitar, fiz o consumo de duas APIs para popular os paises e cidades.
 
 ![spa1](https://user-images.githubusercontent.com/103700322/198481368-6460eb0c-c551-49e2-a534-61f124c2a074.png)
 
