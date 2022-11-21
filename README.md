@@ -5,7 +5,7 @@
 
 ### Neste desafio fiz uma SPA no qual o usuário poderá fazer seu cadastro e escolher mais de um país ou cidade no qual desejaria visitar, fiz o consumo de duas APIs para popular os paises e cidades.
 
-![spa1](https://user-images.githubusercontent.com/103700322/198481368-6460eb0c-c551-49e2-a534-61f124c2a074.png)
+![allyhub](https://user-images.githubusercontent.com/103700322/203048546-ba28ad2a-6589-405f-b850-d55ed50b3d09.png)
 
 ### Para fazer um seletor capaz de selecionar mais de uma opção eu utilizei a biblioteca React Select.
 #### npm i --save react-select
